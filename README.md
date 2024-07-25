@@ -1,1 +1,1 @@
-Assignments of Course -> Data Structures and Algorithms using C++ by Cipher School
+Assignments of Course -> Programming using C++ by Cipher School
